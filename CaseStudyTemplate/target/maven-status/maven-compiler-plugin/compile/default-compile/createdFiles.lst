@@ -1,0 +1,8 @@
+com\CaseStudyTemplate\controller\ArtistController.class
+com\CaseStudyTemplate\models\Login.class
+com\CaseStudyTemplate\controller\RegisterController.class
+com\CaseStudyTemplate\models\Artist.class
+com\CaseStudyTemplate\repo\LoginRepository.class
+com\CaseStudyTemplate\config\DataConfig.class
+com\CaseStudyTemplate\service\LoginService.class
+com\CaseStudyTemplate\controller\LoginController.class
